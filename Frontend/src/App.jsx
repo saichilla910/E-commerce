@@ -5,6 +5,8 @@ import Header from "./Header";
 import { Routes, Route, Link, NavLink } from "react-router-dom";
 import ProductDetail from "./ProductsComponents/ProductDetail";
 import ProductCategory from "./ProductsComponents/ProductCategory";
+import Cart from './ProductsComponents/CartComponents/Cart'
+
 
 function App() {
   const [products, setProducts] = useState([]);
@@ -70,7 +72,11 @@ function App() {
         />
         <Route
           path="/products/category/:category"
-          element={<ProductCategory products={products} setProducts={setProducts} />}
+          element={<ProductCategory products={products} setProducts={setProducts} searchValue={searchValue} />}
+        />
+        <Route 
+        path='/cart'
+        element={<Cart></Cart>}
         />
       </Routes>
     </>

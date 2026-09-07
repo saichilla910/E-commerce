@@ -92,6 +92,7 @@ const Header = ({searchValue,setSearchValue,category,setcategory }) => {
               </button>
 
               {/* Cart */}
+              <Link to='/cart'>
               <button
                 className="
                   relative flex flex-col items-center
@@ -115,6 +116,7 @@ const Header = ({searchValue,setSearchValue,category,setcategory }) => {
                   Cart
                 </span>
               </button>
+              </Link>
 
             </div>
           </div>
