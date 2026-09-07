@@ -8,7 +8,6 @@ const ProductCard = ({ product }) => {
                 cursor-pointer
                 transition-transform duration-300 ease-out
                 hover:scale-[1.05] hover:shadow-lg"
-
       onClick={() => navigate(`/product/${product.id}`)}
     >
     

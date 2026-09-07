@@ -46,30 +46,18 @@ const Header = ({searchValue,setSearchValue,category,setcategory }) => {
                   "
                 />
 
-                <button
-                  type="submit"
-                  className="
-                    absolute right-1 top-1 h-9 w-10
-                    rounded-md bg-blue-600
-                    hover:bg-blue-700
-                    flex items-center justify-center
-                    transition-colors duration-200
-                  "
-                >
-                  🔍
-                </button>
-
               </div>
             </form>
 
             {/* Right Actions */}
-            <div className="flex items-center gap-3 sm:gap-5">
+            <div className="flex items-center gap-3 sm:gap-5 ">
 
               {/* Account */}
+              <Link to='/account'>
               <button
                 className="
                   hidden sm:flex flex-col items-center
-                  hover:text-blue-100 transition-colors duration-200
+                  hover:text-blue-100 transition-colors duration-200 cursor-pointer
                 "
               >
                 <span className="text-xl">👤</span>
@@ -77,19 +65,21 @@ const Header = ({searchValue,setSearchValue,category,setcategory }) => {
                   Account
                 </span>
               </button>
+              </Link>
 
               {/* Wishlist */}
+              <Link to='wish-list'>
               <button
                 className="
                   hidden sm:flex flex-col items-center
-                  hover:text-blue-100 transition-colors duration-200
-                "
+                  hover:text-blue-100 transition-colors duration-200 cursor-pointer"
               >
                 <span className="text-xl">♡</span>
                 <span className="text-xs mt-0.5">
                   Wishlist
                 </span>
               </button>
+              </Link>
 
               {/* Cart */}
               <Link to='/cart'>
@@ -97,7 +87,7 @@ const Header = ({searchValue,setSearchValue,category,setcategory }) => {
                 className="
                   relative flex flex-col items-center
                   hover:text-blue-100 transition-colors duration-200
-                "
+                  cursor-pointer"
               >
                 <span className="text-xl">🛒</span>
 

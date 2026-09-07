@@ -6,7 +6,9 @@ import { Routes, Route, Link, NavLink } from "react-router-dom";
 import ProductDetail from "./ProductsComponents/ProductDetail";
 import ProductCategory from "./ProductsComponents/ProductCategory";
 import Cart from './ProductsComponents/CartComponents/Cart'
-
+import { useNavigate } from "react-router-dom";
+import MainAccount from "./Accounts/MainAccount";
+import Wishlist from "./WishList/Wishlist";
 
 function App() {
   const [products, setProducts] = useState([]);
@@ -14,8 +16,26 @@ function App() {
   const [error, setError] = useState(null);
   const [searchValue, setSearchValue] = useState("");
   const [category,setcategory]=useState();
+  const [cartItem,setCartItem]=useState([]);
+
+  const navigate=useNavigate();
 
   //function for the searching for the products in the products bundle
+  const addToCart=(id)=>{
+    const product=products.find((product)=>
+    product.id==id)
+    console.log(product)
+   if (product) {
+  setCartItem((previousItems) => [
+    ...previousItems,
+    product
+  ]);
+  navigate('cart')
+}
+
+  }
+
+
   const filteredProducts = products.filter((product) => {
     const search = searchValue.trim().toLowerCase();
     if (!search) return true;
@@ -68,7 +88,7 @@ function App() {
 
         <Route
           path="/product/:id"
-          element={<ProductDetail products={products} />}
+          element={<ProductDetail products={products} addToCart={addToCart} />}
         />
         <Route
           path="/products/category/:category"
@@ -76,8 +96,16 @@ function App() {
         />
         <Route 
         path='/cart'
-        element={<Cart></Cart>}
+        element={<Cart cartItem={cartItem}></Cart>}
         />
+        <Route 
+        path="/account"
+        element={<MainAccount />} />
+      
+      <Route 
+        path="/wish-list"
+        element={<Wishlist />}
+         />
       </Routes>
     </>
       

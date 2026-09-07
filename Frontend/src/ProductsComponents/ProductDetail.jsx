@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
 
-const ProductDetail = ({ products }) => {
+const ProductDetail = ({ products,addToCart }) => {
   const { id } = useParams();
 
   // Find product using the ID from the URL
@@ -309,6 +309,7 @@ const ProductDetail = ({ products }) => {
                   text-white font-bold py-3.5 rounded-xl
                   transition-all duration-300
                 "
+                onClick={()=>addToCart(product.id)}
               >
                 Add to Cart
               </button>
