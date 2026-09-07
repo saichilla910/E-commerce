@@ -1,5 +1,5 @@
-
-const Header = ({searchValue,setSearchValue }) => {
+import {Link} from 'react-router-dom'
+const Header = ({searchValue,setSearchValue,category,setcategory }) => {
   console.log(searchValue) 
   const handleSearch = (e) => {
     e.preventDefault();
@@ -18,7 +18,7 @@ const Header = ({searchValue,setSearchValue }) => {
             {/* Logo */}
             <div className="flex-shrink-0 cursor-pointer">
               <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
-                EC MART
+               <Link to='/'>EC MART</Link>
               </h1>
 
               <p className="hidden sm:block text-xs text-blue-100">
@@ -159,76 +159,83 @@ const Header = ({searchValue,setSearchValue }) => {
 
       {/* ================= CATEGORY NAVIGATION ================= */}
       <nav className="hidden md:block bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
-          <div className="h-12 flex items-center gap-8">
+    <div className="h-12 flex items-center gap-8">
 
-            <button
-              className="
-                font-semibold text-gray-700
-                hover:text-blue-600 transition-colors
-              "
-            >
-              All Categories
-            </button>
+      <Link
+        to="/"
+        className="
+          font-semibold text-gray-700
+          hover:text-blue-600 transition-colors
+        "
+      >
+        All Categories
+      </Link>
 
-            <button
-              className="
-                text-gray-600
-                hover:text-blue-600 transition-colors
-              "
-            >
-              Electronics
-            </button>
+      <Link
+        to="/products/category/electronics"
+        className="
+          text-gray-600
+          hover:text-blue-600 transition-colors
+        "
+      >
+        Electronics
+      </Link>
 
-            <button
-              className="
-                text-gray-600
-                hover:text-blue-600 transition-colors
-              "
-            >
-              Fashion
-            </button>
+      <Link
+        to="/products/category/fashion"
+        className="
+          text-gray-600
+          hover:text-blue-600 transition-colors
+        "
+      >
+        Fashion
+      </Link>
 
-            <button
-              className="
-                text-gray-600
-                hover:text-blue-600 transition-colors
-              "
-            >
-              Home & Kitchen
-            </button>
+      <Link
+        to="/products/category/home-kitchen"
+        className="
+          text-gray-600
+          hover:text-blue-600 transition-colors
+        "
+      >
+        Home & Kitchen
+      </Link>
 
-            <button
-              className="
-                text-gray-600
-                hover:text-blue-600 transition-colors
-              "
-            >
-              Smartphones
-            </button>
+      <Link
+        to="/products/category/smartphones"
+        className="
+          text-gray-600
+          hover:text-blue-600 transition-colors
+        "
+      >
+        Smartphones
+      </Link>
 
-            <button
-              className="
-                text-gray-600
-                hover:text-blue-600 transition-colors
-              "
-            >
-              Laptops
-            </button>
+      <Link
+        to="/products/category/laptops"
+        className="
+          text-gray-600
+          hover:text-blue-600 transition-colors
+        "
+      >
+        Laptops
+      </Link>
 
-            <button
-              className="
-                text-gray-600
-                hover:text-blue-600 transition-colors
-              "
-            >
-              Deals
-            </button>
+      <Link
+        to="/products/category/deals"
+        className="
+          text-gray-600
+          hover:text-blue-600 transition-colors
+        "
+      >
+        Deals
+      </Link>
 
-          </div>
-        </div>
-      </nav>
+    </div>
+  </div>
+</nav>
 
     </header>
   );
