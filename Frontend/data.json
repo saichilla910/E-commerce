@@ -1,0 +1,3765 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "ELE-NOVA-0001",
+      "slug": "novatech-active-smartphone-a101-1",
+      "name": "NovaTech Active Smartphone A101",
+      "short_description": "Active smartphones product from NovaTech, designed for reliable everyday use.",
+      "description": "NovaTech Active Smartphone A101 is a catalog-ready smartphones item in the Electronics category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 1,
+        "name": "Electronics",
+        "slug": "electronics"
+      },
+      "subcategory": {
+        "name": "Smartphones",
+        "slug": "smartphones"
+      },
+      "brand": {
+        "name": "NovaTech",
+        "slug": "novatech"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 86970.21,
+        "selling_price": 83665.34,
+        "discount_percentage": 3.8,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.74,
+        "count": 138
+      },
+      "inventory": {
+        "stock": 57,
+        "reserved_stock": 0,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/smartphone?lock=10",
+        "gallery": [
+          "https://loremflickr.com/900/900/smartphone?lock=11",
+          "https://loremflickr.com/900/900/smartphone?lock=12",
+          "https://loremflickr.com/900/900/smartphone?lock=13"
+        ],
+        "alt_text": "NovaTech Active Smartphone A101"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Blue",
+            "White",
+            "Navy"
+          ]
+        }
+      ],
+      "tags": [
+        "electronics",
+        "smartphones",
+        "novatech",
+        "smartphone",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 1,
+        "name": "PrimeCart Retail",
+        "rating": 4.53,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 2,
+        "ships_from": "Bengaluru",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-01-01T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "sku": "ELE-PIXE-0002",
+      "slug": "pixelcore-elite-laptop-b102-2",
+      "name": "PixelCore Elite Laptop B102",
+      "short_description": "Elite laptops product from PixelCore, designed for reliable everyday use.",
+      "description": "PixelCore Elite Laptop B102 is a catalog-ready laptops item in the Electronics category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 1,
+        "name": "Electronics",
+        "slug": "electronics"
+      },
+      "subcategory": {
+        "name": "Laptops",
+        "slug": "laptops"
+      },
+      "brand": {
+        "name": "PixelCore",
+        "slug": "pixelcore"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 125412.45,
+        "selling_price": 93507.52,
+        "discount_percentage": 25.44,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.97,
+        "count": 661
+      },
+      "inventory": {
+        "stock": 114,
+        "reserved_stock": 6,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/laptop?lock=20",
+        "gallery": [
+          "https://loremflickr.com/900/900/laptop?lock=21",
+          "https://loremflickr.com/900/900/laptop?lock=22",
+          "https://loremflickr.com/900/900/laptop?lock=23"
+        ],
+        "alt_text": "PixelCore Elite Laptop B102"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Beige",
+            "Green",
+            "Black"
+          ]
+        }
+      ],
+      "tags": [
+        "electronics",
+        "laptops",
+        "pixelcore",
+        "laptop",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 2,
+        "name": "MetroMart Sellers",
+        "rating": 4.68,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 4,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 6,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-02-02T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "sku": "ELE-AURA-0003",
+      "slug": "auralux-premium-headphone-c103-3",
+      "name": "Auralux Premium Headphone C103",
+      "short_description": "Premium headphones product from Auralux, designed for reliable everyday use.",
+      "description": "Auralux Premium Headphone C103 is a catalog-ready headphones item in the Electronics category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 1,
+        "name": "Electronics",
+        "slug": "electronics"
+      },
+      "subcategory": {
+        "name": "Headphones",
+        "slug": "headphones"
+      },
+      "brand": {
+        "name": "Auralux",
+        "slug": "auralux"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 17247.78,
+        "selling_price": 14633.02,
+        "discount_percentage": 15.16,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.87,
+        "count": 2204
+      },
+      "inventory": {
+        "stock": 88,
+        "reserved_stock": 1,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/headphones?lock=30",
+        "gallery": [
+          "https://loremflickr.com/900/900/headphones?lock=31",
+          "https://loremflickr.com/900/900/headphones?lock=32",
+          "https://loremflickr.com/900/900/headphones?lock=33"
+        ],
+        "alt_text": "Auralux Premium Headphone C103"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Beige",
+            "Green",
+            "Black"
+          ]
+        }
+      ],
+      "tags": [
+        "electronics",
+        "headphones",
+        "auralux",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 3,
+        "name": "CloudNine Commerce",
+        "rating": 4.66,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 5,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 12,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-03-03T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "sku": "ELE-VOLT-0004",
+      "slug": "voltedge-signature-smartwatche-d104-4",
+      "name": "VoltEdge Signature Smartwatche D104",
+      "short_description": "Signature smartwatches product from VoltEdge, designed for reliable everyday use.",
+      "description": "VoltEdge Signature Smartwatche D104 is a catalog-ready smartwatches item in the Electronics category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 1,
+        "name": "Electronics",
+        "slug": "electronics"
+      },
+      "subcategory": {
+        "name": "Smartwatches",
+        "slug": "smartwatches"
+      },
+      "brand": {
+        "name": "VoltEdge",
+        "slug": "voltedge"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 96343.01,
+        "selling_price": 92036.48,
+        "discount_percentage": 4.47,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.66,
+        "count": 1865
+      },
+      "inventory": {
+        "stock": 74,
+        "reserved_stock": 5,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/smartwatch?lock=40",
+        "gallery": [
+          "https://loremflickr.com/900/900/smartwatch?lock=41",
+          "https://loremflickr.com/900/900/smartwatch?lock=42",
+          "https://loremflickr.com/900/900/smartwatch?lock=43"
+        ],
+        "alt_text": "VoltEdge Signature Smartwatche D104"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "White",
+            "Red",
+            "Beige"
+          ]
+        }
+      ],
+      "tags": [
+        "electronics",
+        "smartwatches",
+        "voltedge",
+        "smartwatch",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 4,
+        "name": "ValueHub India",
+        "rating": 4.34,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 6,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-04-04T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "sku": "ELE-NEXA-0005",
+      "slug": "nexa-smart-tablet-e105-5",
+      "name": "Nexa Smart Tablet E105",
+      "short_description": "Smart tablets product from Nexa, designed for reliable everyday use.",
+      "description": "Nexa Smart Tablet E105 is a catalog-ready tablets item in the Electronics category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 1,
+        "name": "Electronics",
+        "slug": "electronics"
+      },
+      "subcategory": {
+        "name": "Tablets",
+        "slug": "tablets"
+      },
+      "brand": {
+        "name": "Nexa",
+        "slug": "nexa"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 122032.36,
+        "selling_price": 91682.91,
+        "discount_percentage": 24.87,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.41,
+        "count": 1562
+      },
+      "inventory": {
+        "stock": 162,
+        "reserved_stock": 4,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/tablet?lock=50",
+        "gallery": [
+          "https://loremflickr.com/900/900/tablet?lock=51",
+          "https://loremflickr.com/900/900/tablet?lock=52",
+          "https://loremflickr.com/900/900/tablet?lock=53"
+        ],
+        "alt_text": "Nexa Smart Tablet E105"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Blue",
+            "Navy",
+            "Red"
+          ]
+        }
+      ],
+      "tags": [
+        "electronics",
+        "tablets",
+        "nexa",
+        "tablet",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 5,
+        "name": "ShopSphere Direct",
+        "rating": 4.15,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 7,
+        "ships_from": "Delhi",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 12,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 7
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-05-05T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "sku": "FAS-URBA-0006",
+      "slug": "urbanthread-pro-men-shirt-f106-6",
+      "name": "UrbanThread Pro Men Shirt F106",
+      "short_description": "Pro men shirts product from UrbanThread, designed for reliable everyday use.",
+      "description": "UrbanThread Pro Men Shirt F106 is a catalog-ready men shirts item in the Fashion category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 2,
+        "name": "Fashion",
+        "slug": "fashion"
+      },
+      "subcategory": {
+        "name": "Men Shirts",
+        "slug": "men-shirts"
+      },
+      "brand": {
+        "name": "UrbanThread",
+        "slug": "urbanthread"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 2468.28,
+        "selling_price": 2368.81,
+        "discount_percentage": 4.03,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.8,
+        "count": 1092
+      },
+      "inventory": {
+        "stock": 68,
+        "reserved_stock": 2,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/shirt?lock=60",
+        "gallery": [
+          "https://loremflickr.com/900/900/shirt?lock=61",
+          "https://loremflickr.com/900/900/shirt?lock=62",
+          "https://loremflickr.com/900/900/shirt?lock=63"
+        ],
+        "alt_text": "UrbanThread Pro Men Shirt F106"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "White",
+            "Red",
+            "Grey"
+          ]
+        },
+        {
+          "name": "Size",
+          "options": [
+            "S",
+            "L",
+            "XL",
+            "M"
+          ]
+        }
+      ],
+      "tags": [
+        "fashion",
+        "men-shirts",
+        "urbanthread",
+        "shirt",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 6,
+        "name": "UrbanBasket Traders",
+        "rating": 4.41,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Delhi",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 24,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-06-06T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "sku": "FAS-MODE-0007",
+      "slug": "modecraft-everyday-women-dresse-g107-7",
+      "name": "ModeCraft Everyday Women Dresse G107",
+      "short_description": "Everyday women dresses product from ModeCraft, designed for reliable everyday use.",
+      "description": "ModeCraft Everyday Women Dresse G107 is a catalog-ready women dresses item in the Fashion category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 2,
+        "name": "Fashion",
+        "slug": "fashion"
+      },
+      "subcategory": {
+        "name": "Women Dresses",
+        "slug": "women-dresses"
+      },
+      "brand": {
+        "name": "ModeCraft",
+        "slug": "modecraft"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 5395.87,
+        "selling_price": 3512.17,
+        "discount_percentage": 34.91,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.52,
+        "count": 1571
+      },
+      "inventory": {
+        "stock": 126,
+        "reserved_stock": 7,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/dress?lock=70",
+        "gallery": [
+          "https://loremflickr.com/900/900/dress?lock=71",
+          "https://loremflickr.com/900/900/dress?lock=72",
+          "https://loremflickr.com/900/900/dress?lock=73"
+        ],
+        "alt_text": "ModeCraft Everyday Women Dresse G107"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "White",
+            "Black",
+            "Beige"
+          ]
+        },
+        {
+          "name": "Size",
+          "options": [
+            "S",
+            "XXL",
+            "L",
+            "M"
+          ]
+        }
+      ],
+      "tags": [
+        "fashion",
+        "women-dresses",
+        "modecraft",
+        "dress",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 1,
+        "name": "PrimeCart Retail",
+        "rating": 4.06,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 6,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-07-07T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "sku": "FAS-STRI-0008",
+      "slug": "strideco-comfort-shoe-h108-8",
+      "name": "StrideCo Comfort Shoe H108",
+      "short_description": "Comfort shoes product from StrideCo, designed for reliable everyday use.",
+      "description": "StrideCo Comfort Shoe H108 is a catalog-ready shoes item in the Fashion category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 2,
+        "name": "Fashion",
+        "slug": "fashion"
+      },
+      "subcategory": {
+        "name": "Shoes",
+        "slug": "shoes"
+      },
+      "brand": {
+        "name": "StrideCo",
+        "slug": "strideco"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 8139.53,
+        "selling_price": 7008.95,
+        "discount_percentage": 13.89,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.77,
+        "count": 2087
+      },
+      "inventory": {
+        "stock": 40,
+        "reserved_stock": 3,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/shoes?lock=80",
+        "gallery": [
+          "https://loremflickr.com/900/900/shoes?lock=81",
+          "https://loremflickr.com/900/900/shoes?lock=82",
+          "https://loremflickr.com/900/900/shoes?lock=83"
+        ],
+        "alt_text": "StrideCo Comfort Shoe H108"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Gold",
+            "Black",
+            "Green"
+          ]
+        },
+        {
+          "name": "Size",
+          "options": [
+            "XL",
+            "S",
+            "XS",
+            "M"
+          ]
+        }
+      ],
+      "tags": [
+        "fashion",
+        "shoes",
+        "strideco",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 2,
+        "name": "MetroMart Sellers",
+        "rating": 4.27,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-08-08T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "sku": "FAS-VELO-0009",
+      "slug": "velora-essential-watche-i109-9",
+      "name": "Velora Essential Watche I109",
+      "short_description": "Essential watches product from Velora, designed for reliable everyday use.",
+      "description": "Velora Essential Watche I109 is a catalog-ready watches item in the Fashion category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 2,
+        "name": "Fashion",
+        "slug": "fashion"
+      },
+      "subcategory": {
+        "name": "Watches",
+        "slug": "watches"
+      },
+      "brand": {
+        "name": "Velora",
+        "slug": "velora"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 4925.08,
+        "selling_price": 4601.01,
+        "discount_percentage": 6.58,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.88,
+        "count": 291
+      },
+      "inventory": {
+        "stock": 78,
+        "reserved_stock": 8,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/watch?lock=90",
+        "gallery": [
+          "https://loremflickr.com/900/900/watch?lock=91",
+          "https://loremflickr.com/900/900/watch?lock=92",
+          "https://loremflickr.com/900/900/watch?lock=93"
+        ],
+        "alt_text": "Velora Essential Watche I109"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Red",
+            "Black",
+            "Beige"
+          ]
+        },
+        {
+          "name": "Size",
+          "options": [
+            "XL",
+            "XS",
+            "XXL",
+            "M"
+          ]
+        }
+      ],
+      "tags": [
+        "fashion",
+        "watches",
+        "velora",
+        "watch",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 3,
+        "name": "CloudNine Commerce",
+        "rating": 4.44,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Bengaluru",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 6,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-01-09T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "sku": "FAS-NORT-0010",
+      "slug": "northline-classic-bag-j110-10",
+      "name": "Northline Classic Bag J110",
+      "short_description": "Classic bags product from Northline, designed for reliable everyday use.",
+      "description": "Northline Classic Bag J110 is a catalog-ready bags item in the Fashion category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 2,
+        "name": "Fashion",
+        "slug": "fashion"
+      },
+      "subcategory": {
+        "name": "Bags",
+        "slug": "bags"
+      },
+      "brand": {
+        "name": "Northline",
+        "slug": "northline"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 6362.92,
+        "selling_price": 4936.99,
+        "discount_percentage": 22.41,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.84,
+        "count": 1023
+      },
+      "inventory": {
+        "stock": 138,
+        "reserved_stock": 3,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/bag?lock=100",
+        "gallery": [
+          "https://loremflickr.com/900/900/bag?lock=101",
+          "https://loremflickr.com/900/900/bag?lock=102",
+          "https://loremflickr.com/900/900/bag?lock=103"
+        ],
+        "alt_text": "Northline Classic Bag J110"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Red",
+            "Green",
+            "Silver"
+          ]
+        },
+        {
+          "name": "Size",
+          "options": [
+            "XXL",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "tags": [
+        "fashion",
+        "bags",
+        "northline",
+        "bag",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 4,
+        "name": "ValueHub India",
+        "rating": 4.41,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 2,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 6,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-02-10T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "sku": "HOM-CASA-0011",
+      "slug": "casanest-active-cookware-k111-11",
+      "name": "CasaNest Active Cookware K111",
+      "short_description": "Active cookware product from CasaNest, designed for reliable everyday use.",
+      "description": "CasaNest Active Cookware K111 is a catalog-ready cookware item in the Home & Kitchen category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 3,
+        "name": "Home & Kitchen",
+        "slug": "home-kitchen"
+      },
+      "subcategory": {
+        "name": "Cookware",
+        "slug": "cookware"
+      },
+      "brand": {
+        "name": "CasaNest",
+        "slug": "casanest"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 641.04,
+        "selling_price": 476.61,
+        "discount_percentage": 25.65,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.39,
+        "count": 1148
+      },
+      "inventory": {
+        "stock": 17,
+        "reserved_stock": 7,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/cookware?lock=110",
+        "gallery": [
+          "https://loremflickr.com/900/900/cookware?lock=111",
+          "https://loremflickr.com/900/900/cookware?lock=112",
+          "https://loremflickr.com/900/900/cookware?lock=113"
+        ],
+        "alt_text": "CasaNest Active Cookware K111"
+      },
+      "variants": [
+        {
+          "name": "Finish",
+          "options": [
+            "Matte",
+            "Gloss",
+            "Brushed"
+          ]
+        }
+      ],
+      "tags": [
+        "home-kitchen",
+        "cookware",
+        "casanest",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 5,
+        "name": "ShopSphere Direct",
+        "rating": 4.46,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "shipping_charge": 49,
+        "estimated_delivery_days": 6,
+        "ships_from": "Bengaluru",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 6,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-03-11T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "sku": "HOM-HEAR-0012",
+      "slug": "hearthly-elite-furniture-l112-12",
+      "name": "Hearthly Elite Furniture L112",
+      "short_description": "Elite furniture product from Hearthly, designed for reliable everyday use.",
+      "description": "Hearthly Elite Furniture L112 is a catalog-ready furniture item in the Home & Kitchen category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 3,
+        "name": "Home & Kitchen",
+        "slug": "home-kitchen"
+      },
+      "subcategory": {
+        "name": "Furniture",
+        "slug": "furniture"
+      },
+      "brand": {
+        "name": "Hearthly",
+        "slug": "hearthly"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 22268.38,
+        "selling_price": 20244.18,
+        "discount_percentage": 9.09,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.46,
+        "count": 229
+      },
+      "inventory": {
+        "stock": 110,
+        "reserved_stock": 1,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/furniture?lock=120",
+        "gallery": [
+          "https://loremflickr.com/900/900/furniture?lock=121",
+          "https://loremflickr.com/900/900/furniture?lock=122",
+          "https://loremflickr.com/900/900/furniture?lock=123"
+        ],
+        "alt_text": "Hearthly Elite Furniture L112"
+      },
+      "variants": [
+        {
+          "name": "Finish",
+          "options": [
+            "Natural",
+            "Gloss",
+            "Brushed"
+          ]
+        }
+      ],
+      "tags": [
+        "home-kitchen",
+        "furniture",
+        "hearthly",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 6,
+        "name": "UrbanBasket Traders",
+        "rating": 4.42,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 2,
+        "ships_from": "Mumbai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-04-12T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 13,
+      "sku": "HOM-OAKL-0013",
+      "slug": "oakline-premium-lighting-m113-13",
+      "name": "Oakline Premium Lighting M113",
+      "short_description": "Premium lighting product from Oakline, designed for reliable everyday use.",
+      "description": "Oakline Premium Lighting M113 is a catalog-ready lighting item in the Home & Kitchen category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 3,
+        "name": "Home & Kitchen",
+        "slug": "home-kitchen"
+      },
+      "subcategory": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "brand": {
+        "name": "Oakline",
+        "slug": "oakline"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 6301.69,
+        "selling_price": 5031.27,
+        "discount_percentage": 20.16,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.52,
+        "count": 316
+      },
+      "inventory": {
+        "stock": 46,
+        "reserved_stock": 7,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/lamp?lock=130",
+        "gallery": [
+          "https://loremflickr.com/900/900/lamp?lock=131",
+          "https://loremflickr.com/900/900/lamp?lock=132",
+          "https://loremflickr.com/900/900/lamp?lock=133"
+        ],
+        "alt_text": "Oakline Premium Lighting M113"
+      },
+      "variants": [
+        {
+          "name": "Finish",
+          "options": [
+            "Natural",
+            "Gloss",
+            "Matte"
+          ]
+        }
+      ],
+      "tags": [
+        "home-kitchen",
+        "lighting",
+        "oakline",
+        "lamp",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 1,
+        "name": "PrimeCart Retail",
+        "rating": 4.79,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 6,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 7
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-05-13T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "sku": "HOM-LUMI-0014",
+      "slug": "lumihome-signature-storage-n114-14",
+      "name": "LumiHome Signature Storage N114",
+      "short_description": "Signature storage product from LumiHome, designed for reliable everyday use.",
+      "description": "LumiHome Signature Storage N114 is a catalog-ready storage item in the Home & Kitchen category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 3,
+        "name": "Home & Kitchen",
+        "slug": "home-kitchen"
+      },
+      "subcategory": {
+        "name": "Storage",
+        "slug": "storage"
+      },
+      "brand": {
+        "name": "LumiHome",
+        "slug": "lumihome"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 33190.52,
+        "selling_price": 23180.26,
+        "discount_percentage": 30.16,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.57,
+        "count": 682
+      },
+      "inventory": {
+        "stock": 124,
+        "reserved_stock": 6,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/storage?lock=140",
+        "gallery": [
+          "https://loremflickr.com/900/900/storage?lock=141",
+          "https://loremflickr.com/900/900/storage?lock=142",
+          "https://loremflickr.com/900/900/storage?lock=143"
+        ],
+        "alt_text": "LumiHome Signature Storage N114"
+      },
+      "variants": [
+        {
+          "name": "Finish",
+          "options": [
+            "Brushed",
+            "Matte",
+            "Gloss"
+          ]
+        }
+      ],
+      "tags": [
+        "home-kitchen",
+        "storage",
+        "lumihome",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 2,
+        "name": "MetroMart Sellers",
+        "rating": 4.81,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 2,
+        "ships_from": "Mumbai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 24,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-06-14T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 15,
+      "sku": "HOM-ORGA-0015",
+      "slug": "organica-smart-decor-o115-15",
+      "name": "Organica Smart Decor O115",
+      "short_description": "Smart decor product from Organica, designed for reliable everyday use.",
+      "description": "Organica Smart Decor O115 is a catalog-ready decor item in the Home & Kitchen category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 3,
+        "name": "Home & Kitchen",
+        "slug": "home-kitchen"
+      },
+      "subcategory": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "brand": {
+        "name": "Organica",
+        "slug": "organica"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 16192.98,
+        "selling_price": 10747.28,
+        "discount_percentage": 33.63,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.89,
+        "count": 247
+      },
+      "inventory": {
+        "stock": 142,
+        "reserved_stock": 8,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/decor?lock=150",
+        "gallery": [
+          "https://loremflickr.com/900/900/decor?lock=151",
+          "https://loremflickr.com/900/900/decor?lock=152",
+          "https://loremflickr.com/900/900/decor?lock=153"
+        ],
+        "alt_text": "Organica Smart Decor O115"
+      },
+      "variants": [
+        {
+          "name": "Finish",
+          "options": [
+            "Brushed",
+            "Matte",
+            "Natural"
+          ]
+        }
+      ],
+      "tags": [
+        "home-kitchen",
+        "decor",
+        "organica",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 3,
+        "name": "CloudNine Commerce",
+        "rating": 4.27,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 2,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-07-15T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 16,
+      "sku": "BEA-GLOW-0016",
+      "slug": "glowmuse-pro-skin-care-p116-16",
+      "name": "GlowMuse Pro Skin Care P116",
+      "short_description": "Pro skin care product from GlowMuse, designed for reliable everyday use.",
+      "description": "GlowMuse Pro Skin Care P116 is a catalog-ready skin care item in the Beauty category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 4,
+        "name": "Beauty",
+        "slug": "beauty"
+      },
+      "subcategory": {
+        "name": "Skin Care",
+        "slug": "skin-care"
+      },
+      "brand": {
+        "name": "GlowMuse",
+        "slug": "glowmuse"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 4469.27,
+        "selling_price": 3115.53,
+        "discount_percentage": 30.29,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.55,
+        "count": 769
+      },
+      "inventory": {
+        "stock": 130,
+        "reserved_stock": 1,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/skincare?lock=160",
+        "gallery": [
+          "https://loremflickr.com/900/900/skincare?lock=161",
+          "https://loremflickr.com/900/900/skincare?lock=162",
+          "https://loremflickr.com/900/900/skincare?lock=163"
+        ],
+        "alt_text": "GlowMuse Pro Skin Care P116"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "beauty",
+        "skin-care",
+        "glowmuse",
+        "skincare",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 4,
+        "name": "ValueHub India",
+        "rating": 4.07,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 6,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 24,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 7
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-08-16T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 17,
+      "sku": "BEA-PURE-0017",
+      "slug": "purebloom-everyday-hair-care-q117-17",
+      "name": "PureBloom Everyday Hair Care Q117",
+      "short_description": "Everyday hair care product from PureBloom, designed for reliable everyday use.",
+      "description": "PureBloom Everyday Hair Care Q117 is a catalog-ready hair care item in the Beauty category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 4,
+        "name": "Beauty",
+        "slug": "beauty"
+      },
+      "subcategory": {
+        "name": "Hair Care",
+        "slug": "hair-care"
+      },
+      "brand": {
+        "name": "PureBloom",
+        "slug": "purebloom"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 7185.81,
+        "selling_price": 5660.26,
+        "discount_percentage": 21.23,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.23,
+        "count": 1725
+      },
+      "inventory": {
+        "stock": 10,
+        "reserved_stock": 8,
+        "availability": "low_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/haircare?lock=170",
+        "gallery": [
+          "https://loremflickr.com/900/900/haircare?lock=171",
+          "https://loremflickr.com/900/900/haircare?lock=172",
+          "https://loremflickr.com/900/900/haircare?lock=173"
+        ],
+        "alt_text": "PureBloom Everyday Hair Care Q117"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "beauty",
+        "hair-care",
+        "purebloom",
+        "haircare",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 5,
+        "name": "ShopSphere Direct",
+        "rating": 4.56,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 4,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 12,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": true,
+      "created_at": "2026-01-17T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 18,
+      "sku": "BEA-VELV-0018",
+      "slug": "velvetskin-comfort-makeup-r118-18",
+      "name": "VelvetSkin Comfort Makeup R118",
+      "short_description": "Comfort makeup product from VelvetSkin, designed for reliable everyday use.",
+      "description": "VelvetSkin Comfort Makeup R118 is a catalog-ready makeup item in the Beauty category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 4,
+        "name": "Beauty",
+        "slug": "beauty"
+      },
+      "subcategory": {
+        "name": "Makeup",
+        "slug": "makeup"
+      },
+      "brand": {
+        "name": "VelvetSkin",
+        "slug": "velvetskin"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 1874.32,
+        "selling_price": 1739.56,
+        "discount_percentage": 7.19,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.33,
+        "count": 305
+      },
+      "inventory": {
+        "stock": 117,
+        "reserved_stock": 0,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/makeup?lock=180",
+        "gallery": [
+          "https://loremflickr.com/900/900/makeup?lock=181",
+          "https://loremflickr.com/900/900/makeup?lock=182",
+          "https://loremflickr.com/900/900/makeup?lock=183"
+        ],
+        "alt_text": "VelvetSkin Comfort Makeup R118"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "beauty",
+        "makeup",
+        "velvetskin",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 6,
+        "name": "UrbanBasket Traders",
+        "rating": 4.28,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 5,
+        "ships_from": "Delhi",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-02-18T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 19,
+      "sku": "BEA-AURA-0019",
+      "slug": "auramist-essential-fragrance-s119-19",
+      "name": "AuraMist Essential Fragrance S119",
+      "short_description": "Essential fragrances product from AuraMist, designed for reliable everyday use.",
+      "description": "AuraMist Essential Fragrance S119 is a catalog-ready fragrances item in the Beauty category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 4,
+        "name": "Beauty",
+        "slug": "beauty"
+      },
+      "subcategory": {
+        "name": "Fragrances",
+        "slug": "fragrances"
+      },
+      "brand": {
+        "name": "AuraMist",
+        "slug": "auramist"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 3377.67,
+        "selling_price": 3133.13,
+        "discount_percentage": 7.24,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.86,
+        "count": 1521
+      },
+      "inventory": {
+        "stock": 17,
+        "reserved_stock": 4,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/perfume?lock=190",
+        "gallery": [
+          "https://loremflickr.com/900/900/perfume?lock=191",
+          "https://loremflickr.com/900/900/perfume?lock=192",
+          "https://loremflickr.com/900/900/perfume?lock=193"
+        ],
+        "alt_text": "AuraMist Essential Fragrance S119"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "beauty",
+        "fragrances",
+        "auramist",
+        "perfume",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 1,
+        "name": "PrimeCart Retail",
+        "rating": 4.79,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Mumbai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-03-19T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 20,
+      "sku": "BEA-GROO-0020",
+      "slug": "groomlab-classic-grooming-t120-20",
+      "name": "GroomLab Classic Grooming T120",
+      "short_description": "Classic grooming product from GroomLab, designed for reliable everyday use.",
+      "description": "GroomLab Classic Grooming T120 is a catalog-ready grooming item in the Beauty category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 4,
+        "name": "Beauty",
+        "slug": "beauty"
+      },
+      "subcategory": {
+        "name": "Grooming",
+        "slug": "grooming"
+      },
+      "brand": {
+        "name": "GroomLab",
+        "slug": "groomlab"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 5980.56,
+        "selling_price": 5603.19,
+        "discount_percentage": 6.31,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.71,
+        "count": 446
+      },
+      "inventory": {
+        "stock": 67,
+        "reserved_stock": 8,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/grooming?lock=200",
+        "gallery": [
+          "https://loremflickr.com/900/900/grooming?lock=201",
+          "https://loremflickr.com/900/900/grooming?lock=202",
+          "https://loremflickr.com/900/900/grooming?lock=203"
+        ],
+        "alt_text": "GroomLab Classic Grooming T120"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "beauty",
+        "grooming",
+        "groomlab",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 2,
+        "name": "MetroMart Sellers",
+        "rating": 4.1,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 6,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-04-20T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 21,
+      "sku": "SPO-FITF-0021",
+      "slug": "fitforge-active-gym-equipment-u121-21",
+      "name": "FitForge Active Gym Equipment U121",
+      "short_description": "Active gym equipment product from FitForge, designed for reliable everyday use.",
+      "description": "FitForge Active Gym Equipment U121 is a catalog-ready gym equipment item in the Sports & Fitness category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 5,
+        "name": "Sports & Fitness",
+        "slug": "sports-fitness"
+      },
+      "subcategory": {
+        "name": "Gym Equipment",
+        "slug": "gym-equipment"
+      },
+      "brand": {
+        "name": "FitForge",
+        "slug": "fitforge"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 5619.13,
+        "selling_price": 4309.87,
+        "discount_percentage": 23.3,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.72,
+        "count": 216
+      },
+      "inventory": {
+        "stock": 125,
+        "reserved_stock": 1,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/fitness?lock=210",
+        "gallery": [
+          "https://loremflickr.com/900/900/fitness?lock=211",
+          "https://loremflickr.com/900/900/fitness?lock=212",
+          "https://loremflickr.com/900/900/fitness?lock=213"
+        ],
+        "alt_text": "FitForge Active Gym Equipment U121"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "sports-fitness",
+        "gym-equipment",
+        "fitforge",
+        "fitness",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 3,
+        "name": "CloudNine Commerce",
+        "rating": 4.23,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 7,
+        "ships_from": "Mumbai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 7
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-05-21T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 22,
+      "sku": "SPO-PACE-0022",
+      "slug": "pacepeak-elite-yoga-v122-22",
+      "name": "PacePeak Elite Yoga V122",
+      "short_description": "Elite yoga product from PacePeak, designed for reliable everyday use.",
+      "description": "PacePeak Elite Yoga V122 is a catalog-ready yoga item in the Sports & Fitness category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 5,
+        "name": "Sports & Fitness",
+        "slug": "sports-fitness"
+      },
+      "subcategory": {
+        "name": "Yoga",
+        "slug": "yoga"
+      },
+      "brand": {
+        "name": "PacePeak",
+        "slug": "pacepeak"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 7402.28,
+        "selling_price": 6870.06,
+        "discount_percentage": 7.19,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.87,
+        "count": 2267
+      },
+      "inventory": {
+        "stock": 41,
+        "reserved_stock": 6,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/yoga?lock=220",
+        "gallery": [
+          "https://loremflickr.com/900/900/yoga?lock=221",
+          "https://loremflickr.com/900/900/yoga?lock=222",
+          "https://loremflickr.com/900/900/yoga?lock=223"
+        ],
+        "alt_text": "PacePeak Elite Yoga V122"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "sports-fitness",
+        "yoga",
+        "pacepeak",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 4,
+        "name": "ValueHub India",
+        "rating": 4.67,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 6,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-06-22T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 23,
+      "sku": "SPO-CORE-0023",
+      "slug": "coreflex-premium-running-w123-23",
+      "name": "CoreFlex Premium Running W123",
+      "short_description": "Premium running product from CoreFlex, designed for reliable everyday use.",
+      "description": "CoreFlex Premium Running W123 is a catalog-ready running item in the Sports & Fitness category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 5,
+        "name": "Sports & Fitness",
+        "slug": "sports-fitness"
+      },
+      "subcategory": {
+        "name": "Running",
+        "slug": "running"
+      },
+      "brand": {
+        "name": "CoreFlex",
+        "slug": "coreflex"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 15716.5,
+        "selling_price": 11047.13,
+        "discount_percentage": 29.71,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.23,
+        "count": 179
+      },
+      "inventory": {
+        "stock": 37,
+        "reserved_stock": 4,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/running?lock=230",
+        "gallery": [
+          "https://loremflickr.com/900/900/running?lock=231",
+          "https://loremflickr.com/900/900/running?lock=232",
+          "https://loremflickr.com/900/900/running?lock=233"
+        ],
+        "alt_text": "CoreFlex Premium Running W123"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "sports-fitness",
+        "running",
+        "coreflex",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 5,
+        "name": "ShopSphere Direct",
+        "rating": 4.39,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 4,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 6,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-07-23T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 24,
+      "sku": "SPO-TRAI-0024",
+      "slug": "trailnova-signature-cycling-x124-24",
+      "name": "TrailNova Signature Cycling X124",
+      "short_description": "Signature cycling product from TrailNova, designed for reliable everyday use.",
+      "description": "TrailNova Signature Cycling X124 is a catalog-ready cycling item in the Sports & Fitness category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 5,
+        "name": "Sports & Fitness",
+        "slug": "sports-fitness"
+      },
+      "subcategory": {
+        "name": "Cycling",
+        "slug": "cycling"
+      },
+      "brand": {
+        "name": "TrailNova",
+        "slug": "trailnova"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 15683.46,
+        "selling_price": 13437.59,
+        "discount_percentage": 14.32,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.2,
+        "count": 641
+      },
+      "inventory": {
+        "stock": 104,
+        "reserved_stock": 3,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/cycling?lock=240",
+        "gallery": [
+          "https://loremflickr.com/900/900/cycling?lock=241",
+          "https://loremflickr.com/900/900/cycling?lock=242",
+          "https://loremflickr.com/900/900/cycling?lock=243"
+        ],
+        "alt_text": "TrailNova Signature Cycling X124"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "sports-fitness",
+        "cycling",
+        "trailnova",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 6,
+        "name": "UrbanBasket Traders",
+        "rating": 4.88,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Bengaluru",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-08-24T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 25,
+      "sku": "SPO-MOTI-0025",
+      "slug": "motionx-smart-outdoor-y125-25",
+      "name": "MotionX Smart Outdoor Y125",
+      "short_description": "Smart outdoor product from MotionX, designed for reliable everyday use.",
+      "description": "MotionX Smart Outdoor Y125 is a catalog-ready outdoor item in the Sports & Fitness category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 5,
+        "name": "Sports & Fitness",
+        "slug": "sports-fitness"
+      },
+      "subcategory": {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      },
+      "brand": {
+        "name": "MotionX",
+        "slug": "motionx"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 17146.37,
+        "selling_price": 14809.32,
+        "discount_percentage": 13.63,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.79,
+        "count": 1024
+      },
+      "inventory": {
+        "stock": 171,
+        "reserved_stock": 4,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/outdoor?lock=250",
+        "gallery": [
+          "https://loremflickr.com/900/900/outdoor?lock=251",
+          "https://loremflickr.com/900/900/outdoor?lock=252",
+          "https://loremflickr.com/900/900/outdoor?lock=253"
+        ],
+        "alt_text": "MotionX Smart Outdoor Y125"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "sports-fitness",
+        "outdoor",
+        "motionx",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 1,
+        "name": "PrimeCart Retail",
+        "rating": 4.78,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Hyderabad",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-01-25T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 26,
+      "sku": "BOO-LEAF-0026",
+      "slug": "leafpress-pro-fiction-z126-26",
+      "name": "LeafPress Pro Fiction Z126",
+      "short_description": "Pro fiction product from LeafPress, designed for reliable everyday use.",
+      "description": "LeafPress Pro Fiction Z126 is a catalog-ready fiction item in the Books & Stationery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 6,
+        "name": "Books & Stationery",
+        "slug": "books-stationery"
+      },
+      "subcategory": {
+        "name": "Fiction",
+        "slug": "fiction"
+      },
+      "brand": {
+        "name": "LeafPress",
+        "slug": "leafpress"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 1049.89,
+        "selling_price": 744.06,
+        "discount_percentage": 29.13,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.04,
+        "count": 940
+      },
+      "inventory": {
+        "stock": 78,
+        "reserved_stock": 3,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/book?lock=260",
+        "gallery": [
+          "https://loremflickr.com/900/900/book?lock=261",
+          "https://loremflickr.com/900/900/book?lock=262",
+          "https://loremflickr.com/900/900/book?lock=263"
+        ],
+        "alt_text": "LeafPress Pro Fiction Z126"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "books-stationery",
+        "fiction",
+        "leafpress",
+        "book",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 2,
+        "name": "MetroMart Sellers",
+        "rating": 4.74,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "shipping_charge": 39,
+        "estimated_delivery_days": 7,
+        "ships_from": "Bengaluru",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-02-26T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 27,
+      "sku": "BOO-CODE-0027",
+      "slug": "codeshelf-everyday-technology-a127-27",
+      "name": "CodeShelf Everyday Technology A127",
+      "short_description": "Everyday technology product from CodeShelf, designed for reliable everyday use.",
+      "description": "CodeShelf Everyday Technology A127 is a catalog-ready technology item in the Books & Stationery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 6,
+        "name": "Books & Stationery",
+        "slug": "books-stationery"
+      },
+      "subcategory": {
+        "name": "Technology",
+        "slug": "technology"
+      },
+      "brand": {
+        "name": "CodeShelf",
+        "slug": "codeshelf"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 956.9,
+        "selling_price": 906.95,
+        "discount_percentage": 5.22,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.54,
+        "count": 1645
+      },
+      "inventory": {
+        "stock": 89,
+        "reserved_stock": 8,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/technology-book?lock=270",
+        "gallery": [
+          "https://loremflickr.com/900/900/technology-book?lock=271",
+          "https://loremflickr.com/900/900/technology-book?lock=272",
+          "https://loremflickr.com/900/900/technology-book?lock=273"
+        ],
+        "alt_text": "CodeShelf Everyday Technology A127"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "books-stationery",
+        "technology",
+        "codeshelf",
+        "technology-book",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 3,
+        "name": "CloudNine Commerce",
+        "rating": 4.58,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "shipping_charge": 59,
+        "estimated_delivery_days": 2,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-03-27T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 28,
+      "sku": "BOO-THIN-0028",
+      "slug": "thinkink-comfort-busine-b128-28",
+      "name": "ThinkInk Comfort Busine B128",
+      "short_description": "Comfort business product from ThinkInk, designed for reliable everyday use.",
+      "description": "ThinkInk Comfort Busine B128 is a catalog-ready business item in the Books & Stationery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 6,
+        "name": "Books & Stationery",
+        "slug": "books-stationery"
+      },
+      "subcategory": {
+        "name": "Business",
+        "slug": "business"
+      },
+      "brand": {
+        "name": "ThinkInk",
+        "slug": "thinkink"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 2720.45,
+        "selling_price": 1782.71,
+        "discount_percentage": 34.47,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.36,
+        "count": 1292
+      },
+      "inventory": {
+        "stock": 152,
+        "reserved_stock": 6,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/business-book?lock=280",
+        "gallery": [
+          "https://loremflickr.com/900/900/business-book?lock=281",
+          "https://loremflickr.com/900/900/business-book?lock=282",
+          "https://loremflickr.com/900/900/business-book?lock=283"
+        ],
+        "alt_text": "ThinkInk Comfort Busine B128"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "books-stationery",
+        "business",
+        "thinkink",
+        "business-book",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 4,
+        "name": "ValueHub India",
+        "rating": 4.39,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 6,
+        "ships_from": "Delhi",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-04-28T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 29,
+      "sku": "BOO-NOTE-0029",
+      "slug": "notecraft-essential-notebook-c129-29",
+      "name": "NoteCraft Essential Notebook C129",
+      "short_description": "Essential notebooks product from NoteCraft, designed for reliable everyday use.",
+      "description": "NoteCraft Essential Notebook C129 is a catalog-ready notebooks item in the Books & Stationery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 6,
+        "name": "Books & Stationery",
+        "slug": "books-stationery"
+      },
+      "subcategory": {
+        "name": "Notebooks",
+        "slug": "notebooks"
+      },
+      "brand": {
+        "name": "NoteCraft",
+        "slug": "notecraft"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 2977.96,
+        "selling_price": 2707.56,
+        "discount_percentage": 9.08,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.37,
+        "count": 2213
+      },
+      "inventory": {
+        "stock": 111,
+        "reserved_stock": 3,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/notebook?lock=290",
+        "gallery": [
+          "https://loremflickr.com/900/900/notebook?lock=291",
+          "https://loremflickr.com/900/900/notebook?lock=292",
+          "https://loremflickr.com/900/900/notebook?lock=293"
+        ],
+        "alt_text": "NoteCraft Essential Notebook C129"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "books-stationery",
+        "notebooks",
+        "notecraft",
+        "notebook",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 5,
+        "name": "ShopSphere Direct",
+        "rating": 4.0,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 4,
+        "ships_from": "Mumbai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-05-01T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 30,
+      "sku": "BOO-ARTB-0030",
+      "slug": "artbox-classic-art-supplie-d130-30",
+      "name": "ArtBox Classic Art Supplie D130",
+      "short_description": "Classic art supplies product from ArtBox, designed for reliable everyday use.",
+      "description": "ArtBox Classic Art Supplie D130 is a catalog-ready art supplies item in the Books & Stationery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 6,
+        "name": "Books & Stationery",
+        "slug": "books-stationery"
+      },
+      "subcategory": {
+        "name": "Art Supplies",
+        "slug": "art-supplies"
+      },
+      "brand": {
+        "name": "ArtBox",
+        "slug": "artbox"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 2515.71,
+        "selling_price": 1906.15,
+        "discount_percentage": 24.23,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.5,
+        "count": 1680
+      },
+      "inventory": {
+        "stock": 76,
+        "reserved_stock": 5,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/art-supplies?lock=300",
+        "gallery": [
+          "https://loremflickr.com/900/900/art-supplies?lock=301",
+          "https://loremflickr.com/900/900/art-supplies?lock=302",
+          "https://loremflickr.com/900/900/art-supplies?lock=303"
+        ],
+        "alt_text": "ArtBox Classic Art Supplie D130"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "books-stationery",
+        "art-supplies",
+        "artbox",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 6,
+        "name": "UrbanBasket Traders",
+        "rating": 4.46,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 5,
+        "ships_from": "Chennai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-06-02T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 31,
+      "sku": "TOY-PLAY-0031",
+      "slug": "playmint-active-educational-toy-e131-31",
+      "name": "PlayMint Active Educational Toy E131",
+      "short_description": "Active educational toys product from PlayMint, designed for reliable everyday use.",
+      "description": "PlayMint Active Educational Toy E131 is a catalog-ready educational toys item in the Toys & Games category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 7,
+        "name": "Toys & Games",
+        "slug": "toys-games"
+      },
+      "subcategory": {
+        "name": "Educational Toys",
+        "slug": "educational-toys"
+      },
+      "brand": {
+        "name": "PlayMint",
+        "slug": "playmint"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 4570.38,
+        "selling_price": 3058.04,
+        "discount_percentage": 33.09,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.38,
+        "count": 1240
+      },
+      "inventory": {
+        "stock": 44,
+        "reserved_stock": 6,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/educational-toy?lock=310",
+        "gallery": [
+          "https://loremflickr.com/900/900/educational-toy?lock=311",
+          "https://loremflickr.com/900/900/educational-toy?lock=312",
+          "https://loremflickr.com/900/900/educational-toy?lock=313"
+        ],
+        "alt_text": "PlayMint Active Educational Toy E131"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "toys-games",
+        "educational-toys",
+        "playmint",
+        "educational-toy",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 1,
+        "name": "PrimeCart Retail",
+        "rating": 4.55,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 6,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 12,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-07-03T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 32,
+      "sku": "TOY-BRAI-0032",
+      "slug": "brainspark-elite-board-game-f132-32",
+      "name": "BrainSpark Elite Board Game F132",
+      "short_description": "Elite board games product from BrainSpark, designed for reliable everyday use.",
+      "description": "BrainSpark Elite Board Game F132 is a catalog-ready board games item in the Toys & Games category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 7,
+        "name": "Toys & Games",
+        "slug": "toys-games"
+      },
+      "subcategory": {
+        "name": "Board Games",
+        "slug": "board-games"
+      },
+      "brand": {
+        "name": "BrainSpark",
+        "slug": "brainspark"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 3980.42,
+        "selling_price": 3122.24,
+        "discount_percentage": 21.56,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.35,
+        "count": 883
+      },
+      "inventory": {
+        "stock": 119,
+        "reserved_stock": 8,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/board-game?lock=320",
+        "gallery": [
+          "https://loremflickr.com/900/900/board-game?lock=321",
+          "https://loremflickr.com/900/900/board-game?lock=322",
+          "https://loremflickr.com/900/900/board-game?lock=323"
+        ],
+        "alt_text": "BrainSpark Elite Board Game F132"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "toys-games",
+        "board-games",
+        "brainspark",
+        "board-game",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 2,
+        "name": "MetroMart Sellers",
+        "rating": 4.4,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 5,
+        "ships_from": "Bengaluru",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 12,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 15
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-08-04T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 33,
+      "sku": "TOY-HERO-0033",
+      "slug": "herobox-premium-action-figure-g133-33",
+      "name": "HeroBox Premium Action Figure G133",
+      "short_description": "Premium action figures product from HeroBox, designed for reliable everyday use.",
+      "description": "HeroBox Premium Action Figure G133 is a catalog-ready action figures item in the Toys & Games category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 7,
+        "name": "Toys & Games",
+        "slug": "toys-games"
+      },
+      "subcategory": {
+        "name": "Action Figures",
+        "slug": "action-figures"
+      },
+      "brand": {
+        "name": "HeroBox",
+        "slug": "herobox"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 1253.43,
+        "selling_price": 834.03,
+        "discount_percentage": 33.46,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.68,
+        "count": 823
+      },
+      "inventory": {
+        "stock": 79,
+        "reserved_stock": 2,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/action-figure?lock=330",
+        "gallery": [
+          "https://loremflickr.com/900/900/action-figure?lock=331",
+          "https://loremflickr.com/900/900/action-figure?lock=332",
+          "https://loremflickr.com/900/900/action-figure?lock=333"
+        ],
+        "alt_text": "HeroBox Premium Action Figure G133"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "toys-games",
+        "action-figures",
+        "herobox",
+        "action-figure",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 3,
+        "name": "CloudNine Commerce",
+        "rating": 4.2,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "shipping_charge": 39,
+        "estimated_delivery_days": 2,
+        "ships_from": "Bengaluru",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-01-05T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 34,
+      "sku": "TOY-PUZZ-0034",
+      "slug": "puzzlenest-signature-puzzle-h134-34",
+      "name": "PuzzleNest Signature Puzzle H134",
+      "short_description": "Signature puzzles product from PuzzleNest, designed for reliable everyday use.",
+      "description": "PuzzleNest Signature Puzzle H134 is a catalog-ready puzzles item in the Toys & Games category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 7,
+        "name": "Toys & Games",
+        "slug": "toys-games"
+      },
+      "subcategory": {
+        "name": "Puzzles",
+        "slug": "puzzles"
+      },
+      "brand": {
+        "name": "PuzzleNest",
+        "slug": "puzzlenest"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 3926.09,
+        "selling_price": 3017.2,
+        "discount_percentage": 23.15,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.61,
+        "count": 1644
+      },
+      "inventory": {
+        "stock": 178,
+        "reserved_stock": 3,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/puzzle?lock=340",
+        "gallery": [
+          "https://loremflickr.com/900/900/puzzle?lock=341",
+          "https://loremflickr.com/900/900/puzzle?lock=342",
+          "https://loremflickr.com/900/900/puzzle?lock=343"
+        ],
+        "alt_text": "PuzzleNest Signature Puzzle H134"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "toys-games",
+        "puzzles",
+        "puzzlenest",
+        "puzzle",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 4,
+        "name": "ValueHub India",
+        "rating": 4.35,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 24,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 10
+      },
+      "is_active": true,
+      "is_featured": true,
+      "created_at": "2026-02-06T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 35,
+      "sku": "TOY-ROBO-0035",
+      "slug": "robojoy-smart-remote-control-i135-35",
+      "name": "RoboJoy Smart Remote Control I135",
+      "short_description": "Smart remote control product from RoboJoy, designed for reliable everyday use.",
+      "description": "RoboJoy Smart Remote Control I135 is a catalog-ready remote control item in the Toys & Games category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 7,
+        "name": "Toys & Games",
+        "slug": "toys-games"
+      },
+      "subcategory": {
+        "name": "Remote Control",
+        "slug": "remote-control"
+      },
+      "brand": {
+        "name": "RoboJoy",
+        "slug": "robojoy"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 2102.53,
+        "selling_price": 1395.03,
+        "discount_percentage": 33.65,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.13,
+        "count": 505
+      },
+      "inventory": {
+        "stock": 12,
+        "reserved_stock": 7,
+        "availability": "low_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/remote-control-toy?lock=350",
+        "gallery": [
+          "https://loremflickr.com/900/900/remote-control-toy?lock=351",
+          "https://loremflickr.com/900/900/remote-control-toy?lock=352",
+          "https://loremflickr.com/900/900/remote-control-toy?lock=353"
+        ],
+        "alt_text": "RoboJoy Smart Remote Control I135"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "toys-games",
+        "remote-control",
+        "robojoy",
+        "remote-control-toy",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 5,
+        "name": "ShopSphere Direct",
+        "rating": 4.5,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 3,
+        "ships_from": "Mumbai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 24,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-03-07T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 36,
+      "sku": "GRO-FRES-0036",
+      "slug": "freshbasket-pro-snack-j136-36",
+      "name": "FreshBasket Pro Snack J136",
+      "short_description": "Pro snacks product from FreshBasket, designed for reliable everyday use.",
+      "description": "FreshBasket Pro Snack J136 is a catalog-ready snacks item in the Grocery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 8,
+        "name": "Grocery",
+        "slug": "grocery"
+      },
+      "subcategory": {
+        "name": "Snacks",
+        "slug": "snacks"
+      },
+      "brand": {
+        "name": "FreshBasket",
+        "slug": "freshbasket"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 2622.23,
+        "selling_price": 2083.89,
+        "discount_percentage": 20.53,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.74,
+        "count": 1020
+      },
+      "inventory": {
+        "stock": 121,
+        "reserved_stock": 4,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/snacks?lock=360",
+        "gallery": [
+          "https://loremflickr.com/900/900/snacks?lock=361",
+          "https://loremflickr.com/900/900/snacks?lock=362",
+          "https://loremflickr.com/900/900/snacks?lock=363"
+        ],
+        "alt_text": "FreshBasket Pro Snack J136"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "grocery",
+        "snacks",
+        "freshbasket",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 6,
+        "name": "UrbanBasket Traders",
+        "rating": 4.41,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 6,
+        "ships_from": "Mumbai",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": false,
+        "return_window_days": 0
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-04-08T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 37,
+      "sku": "GRO-DAIL-0037",
+      "slug": "dailysip-everyday-beverage-k137-37",
+      "name": "DailySip Everyday Beverage K137",
+      "short_description": "Everyday beverages product from DailySip, designed for reliable everyday use.",
+      "description": "DailySip Everyday Beverage K137 is a catalog-ready beverages item in the Grocery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 8,
+        "name": "Grocery",
+        "slug": "grocery"
+      },
+      "subcategory": {
+        "name": "Beverages",
+        "slug": "beverages"
+      },
+      "brand": {
+        "name": "DailySip",
+        "slug": "dailysip"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 763.61,
+        "selling_price": 721.76,
+        "discount_percentage": 5.48,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.76,
+        "count": 2220
+      },
+      "inventory": {
+        "stock": 69,
+        "reserved_stock": 1,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/beverage?lock=370",
+        "gallery": [
+          "https://loremflickr.com/900/900/beverage?lock=371",
+          "https://loremflickr.com/900/900/beverage?lock=372",
+          "https://loremflickr.com/900/900/beverage?lock=373"
+        ],
+        "alt_text": "DailySip Everyday Beverage K137"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "grocery",
+        "beverages",
+        "dailysip",
+        "beverage",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 1,
+        "name": "PrimeCart Retail",
+        "rating": 4.3,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "shipping_charge": 49,
+        "estimated_delivery_days": 3,
+        "ships_from": "Bengaluru",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": false,
+        "return_window_days": 0
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-05-09T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 38,
+      "sku": "GRO-MORN-0038",
+      "slug": "morningmill-comfort-breakfast-l138-38",
+      "name": "MorningMill Comfort Breakfast L138",
+      "short_description": "Comfort breakfast product from MorningMill, designed for reliable everyday use.",
+      "description": "MorningMill Comfort Breakfast L138 is a catalog-ready breakfast item in the Grocery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 8,
+        "name": "Grocery",
+        "slug": "grocery"
+      },
+      "subcategory": {
+        "name": "Breakfast",
+        "slug": "breakfast"
+      },
+      "brand": {
+        "name": "MorningMill",
+        "slug": "morningmill"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 2351.36,
+        "selling_price": 1749.18,
+        "discount_percentage": 25.61,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 3.4,
+        "count": 1916
+      },
+      "inventory": {
+        "stock": 104,
+        "reserved_stock": 6,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/breakfast?lock=380",
+        "gallery": [
+          "https://loremflickr.com/900/900/breakfast?lock=381",
+          "https://loremflickr.com/900/900/breakfast?lock=382",
+          "https://loremflickr.com/900/900/breakfast?lock=383"
+        ],
+        "alt_text": "MorningMill Comfort Breakfast L138"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "grocery",
+        "breakfast",
+        "morningmill",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 2,
+        "name": "MetroMart Sellers",
+        "rating": 4.3,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 2,
+        "ships_from": "Bengaluru",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": false,
+        "return_window_days": 0
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-06-10T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 39,
+      "sku": "GRO-GREE-0039",
+      "slug": "greenharvest-essential-organic-food-m139-39",
+      "name": "GreenHarvest Essential Organic Food M139",
+      "short_description": "Essential organic foods product from GreenHarvest, designed for reliable everyday use.",
+      "description": "GreenHarvest Essential Organic Food M139 is a catalog-ready organic foods item in the Grocery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 8,
+        "name": "Grocery",
+        "slug": "grocery"
+      },
+      "subcategory": {
+        "name": "Organic Foods",
+        "slug": "organic-foods"
+      },
+      "brand": {
+        "name": "GreenHarvest",
+        "slug": "greenharvest"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 1386.24,
+        "selling_price": 1003.22,
+        "discount_percentage": 27.63,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.81,
+        "count": 2366
+      },
+      "inventory": {
+        "stock": 5,
+        "reserved_stock": 3,
+        "availability": "low_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/organic-food?lock=390",
+        "gallery": [
+          "https://loremflickr.com/900/900/organic-food?lock=391",
+          "https://loremflickr.com/900/900/organic-food?lock=392",
+          "https://loremflickr.com/900/900/organic-food?lock=393"
+        ],
+        "alt_text": "GreenHarvest Essential Organic Food M139"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "grocery",
+        "organic-foods",
+        "greenharvest",
+        "organic-food",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 3,
+        "name": "CloudNine Commerce",
+        "rating": 4.77,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 5,
+        "ships_from": "Hyderabad",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": false,
+        "return_window_days": 0
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-07-11T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 40,
+      "sku": "GRO-KITC-0040",
+      "slug": "kitchenroot-classic-cooking-essential-n140-40",
+      "name": "KitchenRoot Classic Cooking Essential N140",
+      "short_description": "Classic cooking essentials product from KitchenRoot, designed for reliable everyday use.",
+      "description": "KitchenRoot Classic Cooking Essential N140 is a catalog-ready cooking essentials item in the Grocery category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 8,
+        "name": "Grocery",
+        "slug": "grocery"
+      },
+      "subcategory": {
+        "name": "Cooking Essentials",
+        "slug": "cooking-essentials"
+      },
+      "brand": {
+        "name": "KitchenRoot",
+        "slug": "kitchenroot"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 923.57,
+        "selling_price": 780.6,
+        "discount_percentage": 15.48,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.73,
+        "count": 2244
+      },
+      "inventory": {
+        "stock": 107,
+        "reserved_stock": 3,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/cooking?lock=400",
+        "gallery": [
+          "https://loremflickr.com/900/900/cooking?lock=401",
+          "https://loremflickr.com/900/900/cooking?lock=402",
+          "https://loremflickr.com/900/900/cooking?lock=403"
+        ],
+        "alt_text": "KitchenRoot Classic Cooking Essential N140"
+      },
+      "variants": [
+        {
+          "name": "Pack",
+          "options": [
+            "Single",
+            "Pack of 2",
+            "Pack of 3"
+          ]
+        }
+      ],
+      "tags": [
+        "grocery",
+        "cooking-essentials",
+        "kitchenroot",
+        "cooking",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 4,
+        "name": "ValueHub India",
+        "rating": 4.48,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "shipping_charge": 79,
+        "estimated_delivery_days": 3,
+        "ships_from": "Chennai",
+        "cod_available": false
+      },
+      "warranty": {
+        "available": false,
+        "period_months": 0,
+        "type": "Not Applicable"
+      },
+      "return_policy": {
+        "returnable": false,
+        "return_window_days": 0
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-08-12T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": 41,
+      "sku": "AUT-AUTO-0041",
+      "slug": "autoaxis-active-car-accessorie-o141-41",
+      "name": "AutoAxis Active Car Accessorie O141",
+      "short_description": "Active car accessories product from AutoAxis, designed for reliable everyday use.",
+      "description": "AutoAxis Active Car Accessorie O141 is a catalog-ready car accessories item in the Automotive category. It is supplied with clearly defined pricing, stock, product variants, shipping, warranty, seller information, tags, and image URLs for use in an e-commerce development project.",
+      "category": {
+        "id": 9,
+        "name": "Automotive",
+        "slug": "automotive"
+      },
+      "subcategory": {
+        "name": "Car Accessories",
+        "slug": "car-accessories"
+      },
+      "brand": {
+        "name": "AutoAxis",
+        "slug": "autoaxis"
+      },
+      "pricing": {
+        "currency": "INR",
+        "list_price": 9339.95,
+        "selling_price": 7897.86,
+        "discount_percentage": 15.44,
+        "tax_included": true
+      },
+      "rating": {
+        "average": 4.37,
+        "count": 2195
+      },
+      "inventory": {
+        "stock": 103,
+        "reserved_stock": 0,
+        "availability": "in_stock",
+        "low_stock_threshold": 12
+      },
+      "images": {
+        "thumbnail": "https://loremflickr.com/500/500/car-accessories?lock=410",
+        "gallery": [
+          "https://loremflickr.com/900/900/car-accessories?lock=411",
+          "https://loremflickr.com/900/900/car-accessories?lock=412",
+          "https://loremflickr.com/900/900/car-accessories?lock=413"
+        ],
+        "alt_text": "AutoAxis Active Car Accessorie O141"
+      },
+      "variants": [
+        {
+          "name": "Color",
+          "options": [
+            "Blue",
+            "Gold",
+            "Beige"
+          ]
+        }
+      ],
+      "tags": [
+        "automotive",
+        "car-accessories",
+        "autoaxis",
+        "ecommerce"
+      ],
+      "seller": {
+        "id": 5,
+        "name": "ShopSphere Direct",
+        "rating": 4.88,
+        "verified": true,
+        "fulfilled_by": "Marketplace"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "shipping_charge": 0,
+        "estimated_delivery_days": 5,
+        "ships_from": "Delhi",
+        "cod_available": true
+      },
+      "warranty": {
+        "available": true,
+        "period_months": 3,
+        "type": "Seller Warranty"
+      },
+      "return_policy": {
+        "returnable": true,
+        "return_window_days": 30
+      },
+      "is_active": true,
+      "is_featured": false,
+      "created_at": "2026-01-13T10:00:00Z",
+      "updated_at": "2026-09-06T12:00:00Z"
+    }
+]
+}
