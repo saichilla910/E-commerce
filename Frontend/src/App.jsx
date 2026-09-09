@@ -9,6 +9,10 @@ import Cart from './ProductsComponents/CartComponents/Cart'
 import { useNavigate } from "react-router-dom";
 import MainAccount from "./Accounts/MainAccount";
 import Wishlist from "./WishList/Wishlist";
+import Register from './AuthenticationForms/Register'
+import Login from './AuthenticationForms/Login'
+import Logout from './AuthenticationForms/Logout'
+
 
 function App() {
   const [products, setProducts] = useState([]);
@@ -57,6 +61,8 @@ function App() {
   console.log(products);
   return (
      <>
+
+     
       <Header
         searchValue={searchValue}
         setSearchValue={setSearchValue}
@@ -73,6 +79,10 @@ function App() {
       />
 
       <Routes>
+
+        <Route path="/login" element={<Login />} />
+
+        <Route path="/register" element={<Register />} />
         <Route
           path="/"
           element={

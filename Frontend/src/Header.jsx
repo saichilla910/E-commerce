@@ -79,7 +79,7 @@ const Header = ({searchValue,setSearchValue,category,setcategory }) => {
                   Wishlist
                 </span>
               </button>
-              </Link>
+              </Link>   
 
               {/* Cart */}
               <Link to='/cart'>
